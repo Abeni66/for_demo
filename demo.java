@@ -4,7 +4,7 @@ class demo{
 		system.out.println("bhcjdsgjbsfh");
 		system.out.println("bhcjdsgjbsfh");
 		system.out.println("bhcjdsgjbsfh");
-		system.out.println("bhcjdsgjbsfh");
+
 		
 		
 		
